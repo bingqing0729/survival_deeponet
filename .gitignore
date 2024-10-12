@@ -26,3 +26,7 @@ deepxde/_version.py
 
 # data
 *.npz
+
+# model
+
+saved_model/
